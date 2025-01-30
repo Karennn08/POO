@@ -1,0 +1,13 @@
+FUNCIONES UTILES DE GIT:
+AGREGAR GITIGNORE ES UNA BUENA PRACTICA
+Push -> subir de mi pc a hub
+pull -> traer del hub a mi pc
+clone -> copiar un repositorio
+
+Antes de subir o actualizar master se debe hacer un PULL y ya luego
+se hace un PUSH. Para evitar conflicto de versiones
+
+En el push hay que especificar en que rama estoy subiendo mi info 
+por ejemplo origin master 
+
+Git pull origin master -> mandame la ultima version para tenerla en mi pc
