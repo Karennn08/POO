@@ -1,0 +1,11 @@
+Programacion estructurada: secuencial, condicional. Tiene problemas para reflejar el mundo reflejar. Piezas de codigo sueltas y funciones.
+
+CLASE: Entidad del mundo real, tiene caracteristica generales y comportamientos. ES COMO UNA PLANTILLA
+OBJETO: Las instancias especificas, una cosa PARTICULAR.
+
+Diagrama de clases, lenguaje UML. 
+
+Una clase debe empezar con mayus inicial y singular. 
+Los atributos siempre se escribe en minuscula. pueden ser variables, o pueden ser otro objeto
+Los Métodos: Son las acciones que los objetos de la clase pueden realizar.
+
